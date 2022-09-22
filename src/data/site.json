@@ -1,13 +1,12 @@
 {
-  "name": "Eleventy Duo",
-  "description": "Eleventy Duo is a minimal and beautiful Eleventy theme for personal blogs.",
-  "url": "https://eleventyduo.netlify.app",
+  "name": "Sanmit Dixit",
+  "description": "entrepreneur, automotive enthusiast, learner",
+  "url": "https://sanmit.wtf",
   "author": {
-    "name": "Author Name",
-    "email": "author@site.com",
-    "twitterHandle": "author_handle"
+    "name": "Sanmit Dixit",
+    "email": "sanmit@mekit.in",
+    "twitterHandle": "sanmitdixit"
   },
-  "defaultSocialImage": "/images/default-social-image.png",
   "headerLinks": [
     {
       "text": "Blog",
@@ -23,24 +22,12 @@
   "socialLinks": [
     {
       "text": "Instagram",
-      "url": "https://instagram.com/",
-      "external": true
-    },
-    {
-      "text": "GitHub",
-      "url": "https://github.com/yinkakun/eleventy-duo",
+      "url": "https://instagram.com/sanmitdixit",
       "external": true
     },
     {
       "text": "Twitter",
-      "url": "https://twitter.com/",
-      "external": true
-    }
-  ],
-  "footerLinks": [
-    {
-      "text": "RSS",
-      "url": "/feed.xml",
+      "url": "https://twitter.com/sanmitdixit",
       "external": true
     }
   ],
