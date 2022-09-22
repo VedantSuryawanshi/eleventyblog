@@ -1,6 +1,6 @@
 ---
 layout: home
-title: 'Sanmit Dixit'
+# title: 'Sanmit Dixit'
 ---
 
 # Hey 👋🏻 I'm Sanmit
