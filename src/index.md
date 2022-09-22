@@ -3,6 +3,6 @@ layout: home
 title: 'Sanmit Dixit'
 ---
 
-# Hello wala title
+# Hey 👋🏻 I'm Sanmit
 
-This is a des
+and this is my bio
